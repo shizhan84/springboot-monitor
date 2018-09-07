@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: springboot-monitor
+  security:
+    user:
+      name: admin
+      password: 123456
+server:
+  port: 8880
+  servlet:
+    context-path: /springboot-monitor
+
+
